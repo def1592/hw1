@@ -1,0 +1,36 @@
+/* Your CSS code goes in this file. */
+
+
+body.sorrento {
+  background-color: #d0f1ec;
+}
+
+body.capri {
+  background-color: #ffebff;
+}
+
+body.ravello {
+  background-color: #fffeeb;
+}
+
+
+h1 {
+  font-family: serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+.caption {
+  text-align: center;
+  font-size: .85em;
+}
